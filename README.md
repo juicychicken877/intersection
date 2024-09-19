@@ -1,2 +1,1 @@
-# intersection-arduino
-simulation of road lights in 4-way intersection
+might add electronic device diagram later
