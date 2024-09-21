@@ -1,1 +1,1 @@
-might add electronic device diagram later
+<img src="circuit.png">
